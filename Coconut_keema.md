@@ -17,7 +17,7 @@
 ##下準備##
 1. ニンニクとショウガは微塵切り
 2. タマネギはスライス
-    * 詳細は[こちら](https://github.com/qqm377p9k2/OpenRecipe/blob/master/Onion_slice.md)で
+    * 詳細は[こちら](https://github.com/qqm377p9k2/OpenRecipe/blob/master/Onion_Slice.md)で
 
 ##手順##
 1. 油を熱してホールスパイスを入れる
