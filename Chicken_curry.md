@@ -49,7 +49,7 @@
     * 詳細は[こちら](https://github.com/qqm377p9k2/OpenRecipe/blob/master/Onion_Slice.md)で
 
 ##手順##
-1. <span style="color:#959595">油を熱してホールスパイスを入れる</span>
+1. <span style="color:#959595">油を熱してホールスパイスを__AからBの順で__入れる</span>
 2. <span style="color:#959595">ショウガ，ニンニクを入れて炒める</span>
 3. タマネギを投入して飴色になるまで炒める
 4. <span style="color:#959595">ヨーグルトを入れる (__極弱火！__)</span>
