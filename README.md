@@ -1,0 +1,4 @@
+OpenRecipe
+==========
+
+Collection of recipes
